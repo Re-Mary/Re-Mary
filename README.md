@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Re-Mary
 - 👀 I’m interested in UX/UI and Human-Oriented Design
 - 🌱 I’m currently studying software engineering at Austrian University of Applied Science, Burgenland
-- 💞️ In my free time I#m painting and have collaborations with illustrators from alll over the world. And I’m looking for further collaborations :)
+- 💞️ In my free time I'm painting and have collaborations with illustrators from alll over the world. And I’m looking for further collaborations :)
 - 📫 How to reach me? You can  write me an e-mail: ami.mari.art@gmail.com
 
 <!---
