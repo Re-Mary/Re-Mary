@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Re-Mary
-- 👀 I’m interested in 3D visualisation and web-development
-- 🌱 I’m currently learning JavaScript and would like to start a project.
-- 💞️ I’m looking to collaborate on 3D visualising projects.
-- 📫 How to reach me? You can  write me an e-mail: vereskovaia@gmail.com
+- 👀 I’m interested in UX/UI and Human-Oriented Design
+- 🌱 I’m currently studying software engineering at Austrian University of Applied Science, Burgenland
+- 💞️ In my free time I#m painting and have collaborations with illustrators from alll over the world. And I’m looking for further collaborations :)
+- 📫 How to reach me? You can  write me an e-mail: ami.mari.art@gmail.com
 
 <!---
 Re-Mary/Re-Mary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
